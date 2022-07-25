@@ -1,3 +1,3 @@
 # best-repo-ever
 testtesttest
-conflict1
+conflict X2
